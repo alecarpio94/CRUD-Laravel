@@ -1,0 +1,29 @@
+p.teaser {
+	text-indent: 30px; 
+	}
+
+.body{
+	background: #f2f2f2;
+}
+
+body .navbar{
+	background: #3c5369;
+}
+
+body .container .navbar-brand{
+	color: #fff;
+}
+
+body .container .collapse .lol{
+	color: #fff;
+}
+
+footer .footer{
+	margin-top: 30px;
+	border-radius: 5px;
+	background: #3c5369;
+	border-top: 30px;
+	max-height: 50px;
+	max-width: 790px;
+	color: #fff;
+}
